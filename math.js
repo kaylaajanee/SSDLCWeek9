@@ -8,3 +8,5 @@ function divide(a, b) {
 }
 
 module.exports = { add, divide };
+
+//added a comment
